@@ -15,6 +15,17 @@
   - [Optional lab: Feature engineering and Polynomial regression](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/2b9db4a80a1c9ebd188a639845ec4a02f2a9edde/Week%202/C1_W2_Lab04_FeatEng_PolyReg_Soln.ipynb)
   - [Optional lab: Linear regression with scikit-learn](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/2b9db4a80a1c9ebd188a639845ec4a02f2a9edde/Week%202/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
   - [Programming Assignment: Week 2 practice lab: Linear regression](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/2b9db4a80a1c9ebd188a639845ec4a02f2a9edde/Week%202/C1_W2_Lab06_Sklearn_Normal_Soln.ipynb)
+ 
+- [Week 3 :](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/tree/e7fee72a3d8119d52262b25af772b0301059a6a7/Week%203)
+  - [Optional lab: Classification](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/e7fee72a3d8119d52262b25af772b0301059a6a7/Week%203/C1_W3_Lab01_Classification_Soln.ipynb)
+  - [Optional lab: Sigmoid function and logistic regression](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/e7fee72a3d8119d52262b25af772b0301059a6a7/Week%203/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)
+  - [Optional lab: Decision boundary](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/e7fee72a3d8119d52262b25af772b0301059a6a7/Week%203/C1_W3_Lab03_Decision_Boundary_Soln.ipynb)
+  - [Optional lab: Logistic loss](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/e7fee72a3d8119d52262b25af772b0301059a6a7/Week%203/C1_W3_Lab04_LogisticLoss_Soln.ipynb)
+  - [Optional lab: Cost function for logistic regression](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/e7fee72a3d8119d52262b25af772b0301059a6a7/Week%203/C1_W3_Lab05_Cost_Function_Soln.ipynb)
+  - [Optional lab: Gradient descent for logistic regression](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/e7fee72a3d8119d52262b25af772b0301059a6a7/Week%203/C1_W3_Lab06_Gradient_Descent_Soln.ipynb)
+  - [Optional lab: Logistic regression with scikit-learn](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/e7fee72a3d8119d52262b25af772b0301059a6a7/Week%203/C1_W3_Lab07_Scikit_Learn_Soln.ipynb)
+  - [Optional lab: Overfitting](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/e7fee72a3d8119d52262b25af772b0301059a6a7/Week%203/C1_W3_Lab08_Overfitting_Soln.ipynb)
+  - [Optional lab: Regularization](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/e7fee72a3d8119d52262b25af772b0301059a6a7/Week%203/C1_W3_Lab09_Regularization_Soln.ipynb)
 
 <br/>
 
