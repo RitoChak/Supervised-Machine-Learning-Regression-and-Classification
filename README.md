@@ -1,7 +1,7 @@
 ## Course 1 : [Supervised Machine Learning: Regression and Classification](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification.git)
 This repository contains all the optional and practice labs as well as the assignments of the course : Supervised Machine Learning : Regression and Classification.
+
 <hr/>
-<br/>
 
 - [Week 1 :](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/tree/2b9db4a80a1c9ebd188a639845ec4a02f2a9edde/Week%201)
   - [Python and Jupyter Notebooks](https://github.com/RitoChak/Supervised-Machine-Learning-Regression-and-Classification/blob/2b9db4a80a1c9ebd188a639845ec4a02f2a9edde/Week%201/C1_W1_Lab01_Python_Jupyter_Soln.ipynb)
